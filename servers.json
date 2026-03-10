@@ -5,7 +5,11 @@
       "address": "https://ani.sidestore.io"
     },
     {
-    "name": "my SideStore",
+      "name": "SideStore (.app)",
+      "address": "https://ani.sidestore.app"
+    },
+    {
+    "name": "kt SideStore server",
     "address": "https://anisette-v3-server-fy5n.onrender.com"
     }
   ],
